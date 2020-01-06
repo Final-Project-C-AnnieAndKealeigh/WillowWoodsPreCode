@@ -1,0 +1,11 @@
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode.deps.json
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode.runtimeconfig.json
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode.runtimeconfig.dev.json
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode.dll
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/bin/Debug/netcoreapp3.0/WillowWoodsPreCode.pdb
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/obj/Debug/netcoreapp3.0/WillowWoodsPreCode.csprojAssemblyReference.cache
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/obj/Debug/netcoreapp3.0/WillowWoodsPreCode.AssemblyInfoInputs.cache
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/obj/Debug/netcoreapp3.0/WillowWoodsPreCode.AssemblyInfo.cs
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/obj/Debug/netcoreapp3.0/WillowWoodsPreCode.dll
+/Users/Annie/Projects/WillowWoodsPreCode/WillowWoodsPreCode/obj/Debug/netcoreapp3.0/WillowWoodsPreCode.pdb
